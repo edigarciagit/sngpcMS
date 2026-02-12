@@ -9,7 +9,6 @@ target/
 .classpath
 .project
 .settings/
-.agent/
 
 # OS
 .DS_Store

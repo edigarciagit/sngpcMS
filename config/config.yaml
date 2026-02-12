@@ -1,0 +1,7 @@
+paths:
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  dictionaries: "docs/anvisa"
+
+anvisa:
+  base_url: "https://dados.anvisa.gov.br/dados/"

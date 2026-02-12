@@ -1,0 +1,11 @@
+pandas
+requests
+pydantic
+pyyaml
+openpyxl
+sqlalchemy
+rapidfuzz
+fastapi
+uvicorn
+pytest
+httpx
